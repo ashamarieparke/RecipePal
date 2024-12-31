@@ -21,3 +21,5 @@ Google Firebase
 
 Cloning the repo (must have Xcode and Mac)
 
+## Demo Gif
+https://github.com/ashamarieparke/RecipePal/blob/main/DemoGIF.gif 
