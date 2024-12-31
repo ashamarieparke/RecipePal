@@ -7,7 +7,9 @@ RecipePal
 
 ## Project Description
 
-This app allows users to search for recipes using the ingredients they have at home. It also allows them to save their favorite recipes in the app. It has implemented user authentication and data storage using Firebase Authentication and Firestore, enhancing app security and enabling personalized user experiences through secure, cloud-based data management.
+- This app allows users to search for recipes using the ingredients they have at home. 
+- It also allows them to save their favorite recipes in the app.
+- It has implemented user authentication and data storage using Firebase Authentication and Firestore, enhancing app security and enabling personalized user experiences through secure, cloud-based data management.
 
 ## Languages Used
 
