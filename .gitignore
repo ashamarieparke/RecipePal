@@ -1,1 +1,2 @@
-*.gitignore
+# Ignore API keys and sensitive files
+Config.plist
